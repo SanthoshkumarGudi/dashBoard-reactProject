@@ -31,5 +31,5 @@ npm start
 Open the application in your browser at http://localhost:3000.
 click on dashboard tjat will navigate to the dashboard page
 Use the "Add Widget" button to add new widgets to the dashboard.
-Click the refresh button to reset the dashboard.
+Click the refresh button to reset the dashboard. 
 
