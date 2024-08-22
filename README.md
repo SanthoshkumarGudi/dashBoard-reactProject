@@ -13,7 +13,7 @@ CNAPP Dashboard is a dynamic and interactive dashboard application designed for 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/SanthoshkumarGudi/dashBoard-reactProject.git
 
 Navigate to the project directory:
 cd dashboard
